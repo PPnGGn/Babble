@@ -1,7 +1,7 @@
-import 'package:babble/core/di/injection.dart';
-import 'package:babble/ui/chat/chat_page.dart';
-import 'package:babble/ui/chat_list/chat_list_page.dart';
-import 'package:babble/ui/settings/settings_page.dart';
+import '../di/injection.dart';
+import '../../ui/chat/chat_page.dart';
+import '../../ui/chat_list/chat_list_page.dart';
+import '../../ui/settings/settings_page.dart';
 import 'package:go_router/go_router.dart';
 import 'package:talker_flutter/talker_flutter.dart';
 

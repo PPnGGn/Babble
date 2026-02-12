@@ -1,6 +1,6 @@
-import 'package:babble/core/di/injection.dart';
-import 'package:babble/core/router/app_router.dart';
-import 'package:babble/core/theme/app_theme.dart';
+import 'core/di/injection.dart';
+import 'core/router/app_router.dart';
+import 'core/theme/app_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
